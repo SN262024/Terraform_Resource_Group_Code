@@ -16,3 +16,7 @@ resource "azurerm_resource_group" "Rg102" {
   name     = "Aug19"
   location = "West Europe"
 }
+resource "azurerm_resource_group" "Canda" {
+  name     = "rg-canada"
+  location = "West Europe"
+}
