@@ -12,7 +12,7 @@ provider "azurerm" {
   subscription_id = "177b7e12-5f03-4f63-bcd1-ed6d1d776bff"
 }
 
-resource "azurerm_resource_group" "Rg101" {
-  name     = "Aug18"
+resource "azurerm_resource_group" "Rg102" {
+  name     = "Aug19"
   location = "West Europe"
 }
